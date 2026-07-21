@@ -1,1 +1,279 @@
-# HealthCare_
+
+# HealthCare_🏥 
+
+### Microsoft Dynamics 365 Business Central Extension
+
+> A complete Healthcare Management System developed in Microsoft Dynamics 365 Business Central using AL Language. This solution manages the entire patient journey from registration to pharmacy billing in one integrated ERP system.
+
+---
+## Purpose of the Project:
+
+The Healthcare management system is designed to manage hospital and clinic operations such as maintaining patient records, managing appointments, consultations, prescriptions, pharmacy inventory and billing.
+
+ The project follow the complete healthcare workflow while ensuring accurate data manangement and reducing manual work.
+ ---
+
+ 
+# 🚀 Project Workflow
+
+```text
+Patient Registration
+        │
+        ▼
+Appointment Booking
+        │
+        ▼
+Doctor Consultation
+        │
+        ▼
+Prescription Generation
+        │
+        ▼
+Pharmacy Medicine Issue
+        │
+        ▼
+Inventory Update
+        │
+        ▼
+Billing
+        │
+        ▼
+Posted Pharmacy Invoice
+```
+
+---
+
+
+
+---
+
+# 📂 Project Modules
+
+## 👤 1. Patient Registration
+
+### Purpose
+Stores complete patient information.
+
+### Features
+- Auto-generated Patient Number
+- Patient Details
+- Contact Information
+- Medical History Reference
+
+---
+
+
+---
+
+## 📅 2. Appointment Management
+
+### Purpose
+Books appointments with doctors.
+
+### Features
+
+- Appointment No.
+- Patient Selection
+- Doctor Selection
+- Appointment Date
+- Appointment Status
+
+---
+
+
+## 👨‍⚕️ 3. Doctor Consultation
+
+### Purpose
+
+Records doctor's consultation after appointment.
+
+### Features
+
+- Consultation Number
+- doctor added symptoms 
+- Patient Details
+- Doctor Details
+- Consultation fees
+- Diagnosis
+- Notes
+
+---
+
+
+
+---
+
+## 💊 4. Prescription
+
+### Purpose
+
+Generate prescription from consultation.
+
+### Features
+
+- Auto-generated Prescription No.
+- Multiple Medicines
+- Dosage
+- Frequency
+- Duration
+- Doctor Instructions
+
+---
+
+
+---
+
+## 🏥 5. Pharmacy
+
+### Purpose
+
+Issue medicines based on prescription.
+
+### Features
+
+- Create Pharmacy Issue
+- Copy Medicines Automatically
+- Quantity Validation
+- Medicine Price
+- Line Amount Calculation
+
+---
+
+
+
+---
+
+## 📦 6. Posted Pharmacy
+
+### Purpose
+
+Posts pharmacy transaction.
+
+### Features
+
+- Posting Date
+- Posted By
+- Posted Invoice
+- History Maintenance
+
+---
+
+## 💰 7. Billing
+
+### Purpose
+
+Generate medicine bill.
+
+### Features
+
+- Medicine Amount
+- Total Bill
+- Invoice Printing
+
+---
+
+
+# 🖥️ Technologies Used
+
+| Technology | Description |
+|------------|-------------|
+| Microsoft Dynamics 365 Business Central | ERP Platform |
+| AL Language | Development |
+| Visual Studio Code | IDE |
+| SQL Server | Database |
+| RDLC | Reports |
+| Git | Version Control |
+| GitHub | Repository |
+|PowerAutomate |
+
+---
+
+---
+
+# 📁 Project Structure
+
+```
+Healthcare Management
+
+│
+├── Tables
+│      Patient
+│      Appointment
+│      Consultation
+│      Prescription Header
+│      Prescription Line
+│      Pharmacy Header
+│      Pharmacy Line
+│      Posted Pharmacy Header
+│      Posted Pharmacy Line
+│
+├── Pages
+│      Card Pages
+│      List Pages
+│      Document Pages
+│
+├── Codeunits
+│      Pharmacy Management
+│      Posting Management
+│      Utility Functions
+│
+├── Reports
+│      Prescription Report
+│      Pharmacy Invoice
+│
+└── Permission Sets
+```
+
+
+
+---
+
+# 🔄 Complete Business Process
+
+### Step 1
+
+Register a new patient.
+
+↓
+
+### Step 2
+
+Book an appointment with a doctor.
+
+↓
+
+### Step 3
+
+Doctor performs consultation.
+
+↓
+
+### Step 4
+
+Generate prescription.
+
+↓
+
+### Step 5
+
+Issue medicines from pharmacy.
+
+↓
+
+### Step 6
+
+System updates inventory.
+
+↓
+
+### Step 7
+
+Generate pharmacy bill.
+
+↓
+
+### Step 8
+
+Post transaction and maintain history.
+
+

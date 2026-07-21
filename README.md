@@ -11,6 +11,7 @@
 The Healthcare management system is designed to manage hospital and clinic operations such as maintaining patient records, managing appointments, consultations, prescriptions, pharmacy inventory and billing.
 
  The project follow the complete healthcare workflow while ensuring accurate data manangement and reducing manual work.
+ 
  ---
 
  
@@ -41,7 +42,6 @@ Billing
 Posted Pharmacy Invoice
 ```
 
----
 
 
 
@@ -59,8 +59,6 @@ Stores complete patient information.
 - Patient Details
 - Contact Information
 - Medical History Reference
-
----
 
 
 ---
@@ -101,8 +99,6 @@ Records doctor's consultation after appointment.
 
 
 
----
-
 ## 💊 4. Prescription
 
 ### Purpose
@@ -120,8 +116,6 @@ Generate prescription from consultation.
 
 ---
 
-
----
 
 ## 🏥 5. Pharmacy
 
@@ -141,7 +135,6 @@ Issue medicines based on prescription.
 
 
 
----
 
 ## 📦 6. Posted Pharmacy
 
@@ -188,7 +181,7 @@ Generate medicine bill.
 
 ---
 
----
+
 
 # 📁 Project Structure
 
@@ -276,4 +269,79 @@ Generate pharmacy bill.
 
 Post transaction and maintain history.
 
+---
 
+
+# ✨ Key Functionalities
+
+✅ Patient Registration
+
+✅ Appointment Management
+
+✅ Consultation Management
+
+✅ Prescription Management
+
+✅ Pharmacy Management
+
+✅ Inventory Update
+
+✅ Pharmacy Billing
+
+✅ Posted Pharmacy Invoice
+
+✅ No. Series Management
+
+✅ Validation Logic
+
+✅ RDLC Reports
+
+---
+
+
+# 📸 Screenshots
+
+> Add screenshots here.
+
+Example:
+
+```
+/Screenshots
+
+PatientRegistration.png
+
+Appointment.png
+
+Consultation.png
+
+Prescription.png
+
+Pharmacy.png
+
+PostedInvoice.png
+```
+
+---
+
+# 🔮 Future Enhancements
+
+- Power Automate Integration
+- Power Apps Mobile App
+- Email Notification
+- SMS Reminder
+- Barcode Scanner
+- QR Code Prescription
+- Dashboard
+- Reports & Analytics
+
+---
+
+# 👩‍💻 Developed By
+
+**Harshada Mhase**
+
+Microsoft Dynamics 365 Business Central Developer
+
+---
+
+⭐ **If you like this project, don't forget to give it a Star on GitHub!**

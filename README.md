@@ -326,6 +326,11 @@ Example:
 
 <img width="1358" height="647" alt="image" src="https://github.com/user-attachments/assets/4b2941e4-2513-41a2-8460-42cdbd716cd0" />
 
+Prescription Invoice:
+<img width="1347" height="680" alt="image" src="https://github.com/user-attachments/assets/717122b1-559b-42b0-9abb-7fbeb7a6ad9a" />
+
+Pharmacy Invocie:
+<img width="1330" height="666" alt="image" src="https://github.com/user-attachments/assets/79c33397-0761-4c99-b584-f3aba9a1a709" />
 
 ---
 

@@ -3,7 +3,7 @@
 
 ### Microsoft Dynamics 365 Business Central Extension
 
-> A complete Healthcare Management System developed in Microsoft Dynamics 365 Business Central using AL Language. This solution manages the entire patient journey from registration to pharmacy billing in one integrated ERP system.
+> A complete Healthcare System developed in Microsoft Dynamics 365 Business Central using AL Language. This solution manages the entire patient journey from registration to pharmacy billing in one integrated ERP system.
 
 ---
 ## Purpose of the Project:

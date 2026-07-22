@@ -306,19 +306,27 @@ Post transaction and maintain history.
 Example:
 
 ```
-/Screenshots
+/Screenshot
+<img width="1289" height="633" alt="image" src="https://github.com/user-attachments/assets/575dca2e-60e1-45e5-914f-7594faa38242" />
 
-PatientRegistration.png
 
-Appointment.png
+<img width="1354" height="652" alt="image" src="https://github.com/user-attachments/assets/f8ad5acf-bb12-40a1-b4b7-f39866257014" />
 
-Consultation.png
 
-Prescription.png
+<img width="1366" height="641" alt="image" src="https://github.com/user-attachments/assets/ff4dfe40-c4c4-42f2-b1f4-4b20ca7e44df" />
 
-Pharmacy.png
 
-PostedInvoice.png
+<img width="1355" height="683" alt="image" src="https://github.com/user-attachments/assets/e1f9f9fc-de6f-4f9f-8279-ca9aac6b632b" />
+
+
+<img width="1361" height="654" alt="image" src="https://github.com/user-attachments/assets/f9919966-dbed-4b39-a316-d909d14d6712" />
+
+
+<img width="1366" height="685" alt="image" src="https://github.com/user-attachments/assets/d9f57617-ae64-424c-950d-44fdf23de2e5" />
+
+
+<img width="1358" height="647" alt="image" src="https://github.com/user-attachments/assets/4b2941e4-2513-41a2-8460-42cdbd716cd0" />
+
 ```
 
 ---

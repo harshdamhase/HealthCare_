@@ -305,8 +305,7 @@ Post transaction and maintain history.
 
 Example:
 
-```
-/Screenshot
+
 <img width="1289" height="633" alt="image" src="https://github.com/user-attachments/assets/575dca2e-60e1-45e5-914f-7594faa38242" />
 
 
@@ -327,7 +326,6 @@ Example:
 
 <img width="1358" height="647" alt="image" src="https://github.com/user-attachments/assets/4b2941e4-2513-41a2-8460-42cdbd716cd0" />
 
-```
 
 ---
 
